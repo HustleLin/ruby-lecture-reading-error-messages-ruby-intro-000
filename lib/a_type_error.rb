@@ -1,5 +1,7 @@
 1 + 1
 
-x = "is the loneliest number"
+def is the loneliest number
+  puts "2"
+end
 
 1 + "is the loneliest number"
