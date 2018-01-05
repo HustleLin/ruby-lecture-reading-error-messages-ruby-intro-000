@@ -1,7 +1,3 @@
 1 + 1
-
-def is the loneliest number
-  3 + 1
-end
-
+x = is the loneliest number
 1 + "is the loneliest number"
